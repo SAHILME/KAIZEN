@@ -1,0 +1,16 @@
+C:\Users\RCF\Documents\Visual Studio 2013\Projects\Industrial_Engineering\Industrial_Engineering\bin\Industrial_Engineering.dll.config
+C:\Users\RCF\Documents\Visual Studio 2013\Projects\Industrial_Engineering\Industrial_Engineering\bin\Industrial_Engineering.dll
+C:\Users\RCF\Documents\Visual Studio 2013\Projects\Industrial_Engineering\Industrial_Engineering\bin\Industrial_Engineering.pdb
+C:\Users\RCF\Documents\Visual Studio 2013\Projects\Industrial_Engineering\Industrial_Engineering\obj\Debug\Industrial_Engineering.dll
+C:\Users\RCF\Documents\Visual Studio 2013\Projects\Industrial_Engineering\Industrial_Engineering\obj\Debug\Industrial_Engineering.pdb
+C:\Users\RCF\Desktop\1\Industrial_Engineering\Industrial_Engineering\bin\Industrial_Engineering.dll.config
+C:\Users\RCF\Desktop\1\Industrial_Engineering\Industrial_Engineering\bin\Industrial_Engineering.dll
+C:\Users\RCF\Desktop\1\Industrial_Engineering\Industrial_Engineering\bin\Industrial_Engineering.pdb
+C:\Users\RCF\Desktop\1\Industrial_Engineering\Industrial_Engineering\obj\Debug\Industrial_Engineering.dll
+C:\Users\RCF\Desktop\1\Industrial_Engineering\Industrial_Engineering\obj\Debug\Industrial_Engineering.pdb
+C:\Users\RCF\Desktop\IESQL\Industrial_Engineering\Industrial_Engineering\bin\Industrial_Engineering.dll.config
+C:\Users\RCF\Desktop\IESQL\Industrial_Engineering\Industrial_Engineering\bin\Industrial_Engineering.dll
+C:\Users\RCF\Desktop\IESQL\Industrial_Engineering\Industrial_Engineering\bin\Industrial_Engineering.pdb
+C:\Users\RCF\Desktop\IESQL\Industrial_Engineering\Industrial_Engineering\obj\Debug\Industrial_Engineering.dll
+C:\Users\RCF\Desktop\IESQL\Industrial_Engineering\Industrial_Engineering\obj\Debug\Industrial_Engineering.pdb
+C:\Users\RCF\Desktop\IESQL\Industrial_Engineering\Industrial_Engineering\obj\Debug\Industrial_Engineering.csprojResolveAssemblyReference.cache
